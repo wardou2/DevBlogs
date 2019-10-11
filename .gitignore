@@ -30,4 +30,5 @@
 yarn-debug.log*
 .yarn-integrity
 
+#keep secrets secret
 /config/secrets.yml
